@@ -8,5 +8,4 @@ t/manifest.t
 t/pod-coverage.t
 t/pod.t
 t/Statistics-embedR.t
-Makefile.PL
 META.yml
