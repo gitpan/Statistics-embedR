@@ -15,11 +15,11 @@ name: Statistics-embedR
 provides:
   Statistics::embedR:
     file: lib/Statistics/embedR.pm
-    version: v0.1.2
+    version: v0.10.1
 requires:
   Statistics::useR: 0.01
   perl: 5.010
 resources:
   license: http://dev.perl.org/licenses/
   repository: https://github.com/qiuhw/Statistics-embedR
-version: v0.1.2
+version: v0.10.1
